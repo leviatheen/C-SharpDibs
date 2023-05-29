@@ -1,0 +1,16 @@
+D:\Github\C-SharpVS\PhotoWiew\PhotoWiew\bin\Debug\PhotoWiew.exe.config
+D:\Github\C-SharpVS\PhotoWiew\PhotoWiew\bin\Debug\PhotoWiew.exe
+D:\Github\C-SharpVS\PhotoWiew\PhotoWiew\bin\Debug\PhotoWiew.pdb
+D:\Github\C-SharpVS\PhotoWiew\PhotoWiew\obj\Debug\PhotoWiew.csproj.AssemblyReference.cache
+D:\Github\C-SharpVS\PhotoWiew\PhotoWiew\obj\Debug\PhotoWiew.csproj.SuggestedBindingRedirects.cache
+D:\Github\C-SharpVS\PhotoWiew\PhotoWiew\obj\Debug\MainWindow.g.cs
+D:\Github\C-SharpVS\PhotoWiew\PhotoWiew\obj\Debug\App.g.cs
+D:\Github\C-SharpVS\PhotoWiew\PhotoWiew\obj\Debug\PhotoWiew_MarkupCompile.cache
+D:\Github\C-SharpVS\PhotoWiew\PhotoWiew\obj\Debug\PhotoWiew_MarkupCompile.lref
+D:\Github\C-SharpVS\PhotoWiew\PhotoWiew\obj\Debug\MainWindow.baml
+D:\Github\C-SharpVS\PhotoWiew\PhotoWiew\obj\Debug\PhotoWiew.g.resources
+D:\Github\C-SharpVS\PhotoWiew\PhotoWiew\obj\Debug\PhotoWiew.Properties.Resources.resources
+D:\Github\C-SharpVS\PhotoWiew\PhotoWiew\obj\Debug\PhotoWiew.csproj.GenerateResource.cache
+D:\Github\C-SharpVS\PhotoWiew\PhotoWiew\obj\Debug\PhotoWiew.csproj.CoreCompileInputs.cache
+D:\Github\C-SharpVS\PhotoWiew\PhotoWiew\obj\Debug\PhotoWiew.exe
+D:\Github\C-SharpVS\PhotoWiew\PhotoWiew\obj\Debug\PhotoWiew.pdb

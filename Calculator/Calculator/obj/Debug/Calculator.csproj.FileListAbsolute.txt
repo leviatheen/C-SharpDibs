@@ -1,0 +1,16 @@
+D:\Github\C-SharpVS\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Github\C-SharpVS\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Github\C-SharpVS\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Github\C-SharpVS\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\Github\C-SharpVS\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+D:\Github\C-SharpVS\Calculator\Calculator\obj\Debug\MainWindow.g.cs
+D:\Github\C-SharpVS\Calculator\Calculator\obj\Debug\App.g.cs
+D:\Github\C-SharpVS\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+D:\Github\C-SharpVS\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+D:\Github\C-SharpVS\Calculator\Calculator\obj\Debug\MainWindow.baml
+D:\Github\C-SharpVS\Calculator\Calculator\obj\Debug\Calculator.g.resources
+D:\Github\C-SharpVS\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Github\C-SharpVS\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\Github\C-SharpVS\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Github\C-SharpVS\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Github\C-SharpVS\Calculator\Calculator\obj\Debug\Calculator.pdb

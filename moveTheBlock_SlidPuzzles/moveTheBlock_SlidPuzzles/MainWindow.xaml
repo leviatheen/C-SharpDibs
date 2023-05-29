@@ -1,0 +1,34 @@
+﻿<Window x:Class="moveTheBlock_SlidPuzzles.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:moveTheBlock_SlidPuzzles"
+        mc:Ignorable="d"
+        Title="Move The Block"
+        MaxHeight="850" MaxWidth="600" MinHeight="850" MinWidth="600"
+        Height="850" Width="600">
+    <Grid Height="850" Width="600">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="600"/>
+        </Grid.RowDefinitions>
+        <Button Height="100" VerticalAlignment="Bottom" Background="Aquamarine" Content="Start" FontSize="56" Click="start_Click"/>
+        <Grid Grid.Row="1" >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="150" />
+                <ColumnDefinition Width="150" />
+                <ColumnDefinition Width="150" />
+                <ColumnDefinition Width="150" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="150"/>
+                <RowDefinition Height="150"/>
+                <RowDefinition Height="150"/>
+                <RowDefinition Height="150"/>
+
+            </Grid.RowDefinitions>
+        </Grid>
+        
+    </Grid>
+</Window>

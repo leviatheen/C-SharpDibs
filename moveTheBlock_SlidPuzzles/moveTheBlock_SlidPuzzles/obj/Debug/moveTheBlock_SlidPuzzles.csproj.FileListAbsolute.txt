@@ -1,0 +1,16 @@
+D:\Github\C-SharpVS\moveTheBlock_SlidPuzzles\moveTheBlock_SlidPuzzles\bin\Debug\moveTheBlock_SlidPuzzles.exe.config
+D:\Github\C-SharpVS\moveTheBlock_SlidPuzzles\moveTheBlock_SlidPuzzles\bin\Debug\moveTheBlock_SlidPuzzles.exe
+D:\Github\C-SharpVS\moveTheBlock_SlidPuzzles\moveTheBlock_SlidPuzzles\bin\Debug\moveTheBlock_SlidPuzzles.pdb
+D:\Github\C-SharpVS\moveTheBlock_SlidPuzzles\moveTheBlock_SlidPuzzles\obj\Debug\moveTheBlock_SlidPuzzles.csproj.AssemblyReference.cache
+D:\Github\C-SharpVS\moveTheBlock_SlidPuzzles\moveTheBlock_SlidPuzzles\obj\Debug\moveTheBlock_SlidPuzzles.csproj.SuggestedBindingRedirects.cache
+D:\Github\C-SharpVS\moveTheBlock_SlidPuzzles\moveTheBlock_SlidPuzzles\obj\Debug\MainWindow.g.cs
+D:\Github\C-SharpVS\moveTheBlock_SlidPuzzles\moveTheBlock_SlidPuzzles\obj\Debug\App.g.cs
+D:\Github\C-SharpVS\moveTheBlock_SlidPuzzles\moveTheBlock_SlidPuzzles\obj\Debug\moveTheBlock_SlidPuzzles_MarkupCompile.cache
+D:\Github\C-SharpVS\moveTheBlock_SlidPuzzles\moveTheBlock_SlidPuzzles\obj\Debug\moveTheBlock_SlidPuzzles_MarkupCompile.lref
+D:\Github\C-SharpVS\moveTheBlock_SlidPuzzles\moveTheBlock_SlidPuzzles\obj\Debug\MainWindow.baml
+D:\Github\C-SharpVS\moveTheBlock_SlidPuzzles\moveTheBlock_SlidPuzzles\obj\Debug\moveTheBlock_SlidPuzzles.g.resources
+D:\Github\C-SharpVS\moveTheBlock_SlidPuzzles\moveTheBlock_SlidPuzzles\obj\Debug\moveTheBlock_SlidPuzzles.Properties.Resources.resources
+D:\Github\C-SharpVS\moveTheBlock_SlidPuzzles\moveTheBlock_SlidPuzzles\obj\Debug\moveTheBlock_SlidPuzzles.csproj.GenerateResource.cache
+D:\Github\C-SharpVS\moveTheBlock_SlidPuzzles\moveTheBlock_SlidPuzzles\obj\Debug\moveTheBlock_SlidPuzzles.csproj.CoreCompileInputs.cache
+D:\Github\C-SharpVS\moveTheBlock_SlidPuzzles\moveTheBlock_SlidPuzzles\obj\Debug\moveTheBlock_SlidPuzzles.exe
+D:\Github\C-SharpVS\moveTheBlock_SlidPuzzles\moveTheBlock_SlidPuzzles\obj\Debug\moveTheBlock_SlidPuzzles.pdb
